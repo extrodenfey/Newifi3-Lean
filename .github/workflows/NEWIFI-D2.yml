@@ -101,6 +101,10 @@ jobs:
           CONFIG_PACKAGE_luci-app-wrtbwmon=y
           CONFIG_PACKAGE_luci-app-xlnetacc=n
           CONFIG_PACKAGE_luci-app-zerotier=n
+          CONFIG_PACKAGE_vsftpd-alt=n
+          CONFIG_PACKAGE_luci-app-vsftpd=n
+          CONFIG_PACKAGE_luci-i18n-vsftpd-zh-cn=n
+          
 
           # Third party packages
           CONFIG_PACKAGE_luci-app-aliddns=n

@@ -24,11 +24,7 @@
 name: X86-PVE
 
 on:
-  push:
-    branches:
-      - master
-  watch:
-    types: started
+    workflow_dispatch:
 
 jobs:
   build:

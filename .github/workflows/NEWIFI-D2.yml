@@ -79,7 +79,7 @@ jobs:
           # Storage
           CONFIG_PACKAGE_autosamba=n
           CONFIG_PACKAGE_kmod-usb3=y
-          CONFIG_PACKAGE_automount=n
+          CONFIG_PACKAGE_automount=y
 
 
           # APP
